@@ -26,7 +26,7 @@ void binary_tree_size_r(const binary_tree_t *tree, size_t *counter)
 
 size_t binary_tree_size(const binary_tree_t *tree)
 {
-	size_t counter = 1;
+	size_t counter = 0;
 
 	if (tree == NULL)
 		return (0);
