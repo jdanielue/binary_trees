@@ -23,7 +23,7 @@ void binary_tree_leaves_r(const binary_tree_t *tree, size_t *counter)
 
 
 /**
- * binary_tree_leaves_ - function that goes through a binary tree
+ * binary_tree_leaves - function that goes through a binary tree
  * @tree: pointer to the node to check
  * Return: leaf
  */
