@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_siz_r - function that goes through a binary tree
+ * binary_tree_size_r - function that goes through a binary tree
  * @tree: pointer to the node to check
  * @counter: counter
  * Return: nothing
